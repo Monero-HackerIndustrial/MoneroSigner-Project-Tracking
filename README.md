@@ -37,4 +37,4 @@ MoneroSigner- Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sig
 ### Future todos
 
 - Create a minimal bootable image from [https://github.com/SeedSigner/seedsigner-os](https://github.com/SeedSigner/seedsigner-os). 
-- 
+- Create developer helper scripts. Currently devlopment requires a large amount of copying and pasting back and forth to the parent repo. 
