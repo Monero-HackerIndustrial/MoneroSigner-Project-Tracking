@@ -30,3 +30,11 @@ MoneroSigner Emulator - Allows emulating the MoneroSigner hardware. Run MoneroSi
 MoneroSigner Libraries- Libraries utilized for the monero signer
 [https://github.com/Monero-HackerIndustrial/moneroSignerLibraries](https://github.com/Monero-HackerIndustrial/moneroSignerLibraries)
 
+MoneroSigner- Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sign monero transactions! (and do other cool stuff). 
+[https://github.com/Monero-HackerIndustrial/MoneroSigner](https://github.com/Monero-HackerIndustrial/MoneroSigner)
+
+
+### Future todos
+
+- Create a minimal bootable image from [https://github.com/SeedSigner/seedsigner-os](https://github.com/SeedSigner/seedsigner-os). 
+- 
