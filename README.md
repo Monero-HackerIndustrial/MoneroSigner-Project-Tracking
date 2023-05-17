@@ -34,7 +34,15 @@ MoneroSigner- Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sig
 [https://github.com/Monero-HackerIndustrial/MoneroSigner](https://github.com/Monero-HackerIndustrial/MoneroSigner)
 
 
+
 ### Future todos
 
 - Create a minimal bootable image from [https://github.com/SeedSigner/seedsigner-os](https://github.com/SeedSigner/seedsigner-os). 
 - Create developer helper scripts. Currently devlopment requires a large amount of copying and pasting back and forth to the parent repo. 
+
+### Future related projects 
+
+PicoNero- A Monero hardware wallet built around a raspberry pi pico ($4 microcontroller board).
+[https://github.com/Monero-HackerIndustrial/PicoNero](https://github.com/Monero-HackerIndustrial/PicoNero)
+
+
