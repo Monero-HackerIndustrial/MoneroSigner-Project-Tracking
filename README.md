@@ -34,6 +34,8 @@ MoneroSigner- Seedsigner Monero fork. Use an air-gapped Raspberry Pi Zero to sig
 [https://github.com/Monero-HackerIndustrial/MoneroSigner](https://github.com/Monero-HackerIndustrial/MoneroSigner)
 
 
+pureSeed.py- A pure python reference of Monero Seed Phrases without requiring the monero python library.
+[https://github.com/Monero-HackerIndustrial/pureSeed.py](https://github.com/Monero-HackerIndustrial/pureSeed.py)
 
 ### Future todos
 
